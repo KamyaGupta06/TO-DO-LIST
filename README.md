@@ -4,12 +4,18 @@ A simple and interactive To-Do List web application that allows users to add, ch
 🚀 Features
 
 ✅ Add tasks to the list
+
 ✅ Mark tasks as completed
+
 ✅ Remove tasks with a delete button (❌)
+
 ✅ Saves tasks automatically using localStorage
-✅ Responsive and user-friendly design
+
 
 🛠️ Technologies Used
-HTML
-CSS
-JavaScript
+
+-> HTML
+
+-> CSS
+
+-> JavaScript
